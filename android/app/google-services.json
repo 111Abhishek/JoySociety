@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "688829672464",
+    "project_id": "joy-society-1cbaf",
+    "storage_bucket": "joy-society-1cbaf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688829672464:android:7082715ca0b6dc3eb9ee95",
+        "android_client_info": {
+          "package_name": "com.joysociety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688829672464-0l2tfsiccfugadnreo56ufnrf8p2m726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6P55ruWdQS6a3lJiR4Vgi5cfrMWQYCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688829672464-0l2tfsiccfugadnreo56ufnrf8p2m726.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688829672464:android:e1bc756197b48a1cb9ee95",
+        "android_client_info": {
+          "package_name": "com.joysociety.test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688829672464-0l2tfsiccfugadnreo56ufnrf8p2m726.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU6P55ruWdQS6a3lJiR4Vgi5cfrMWQYCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688829672464-0l2tfsiccfugadnreo56ufnrf8p2m726.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

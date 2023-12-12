@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>65225548967-8ga01q0nim8ffh6hjdhu9dojpgs2orhh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.65225548967-8ga01q0nim8ffh6hjdhu9dojpgs2orhh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA6JkUosjK5WRI8rJsiWVZ8zs5cCiXIj-A</string>
+	<key>GCM_SENDER_ID</key>
+	<string>65225548967</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.joysociety.joyapp</string>
+	<key>PROJECT_ID</key>
+	<string>joy-society-99626</string>
+	<key>STORAGE_BUCKET</key>
+	<string>joy-society-99626.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:65225548967:ios:a6629e162053be6b726782</string>
+</dict>
+</plist>
